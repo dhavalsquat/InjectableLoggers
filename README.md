@@ -19,7 +19,6 @@ to the files where you need some injectable logging action.
 ### Making your logger injectable
 
 Depending on how much functionality you want (to expose) from a logger, make a logger conform to one of the following protocols:
-
 `CanLog`
 
 `CanLogMessage`
